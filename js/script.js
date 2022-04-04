@@ -47,6 +47,9 @@ let trip3 = new Places(["Rome", "Siena", "Florence", "Venice", "Varenna", "Milan
 // UI logic
 
 $(document).ready(function () {
-  $
+  $("p").click(function () {
+    $(".hidden").toggle();
+    $
+  })
 
 });

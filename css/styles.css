@@ -1,0 +1,8 @@
+.hidden {
+  display: none;
+}
+
+span:hover {
+  text-decoration: line-through;
+  color: blue;
+}
